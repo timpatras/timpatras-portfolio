@@ -1,0 +1,44 @@
+---
+title: "Tim Patras | MBA Portfolio"
+format:
+  html:
+    theme: flatly
+    page-layout: full
+    includes:
+      in-header: aos.html
+    toc: false
+---
+
+# 👋 About Me {.aos .blink-fade data-aos="fade-in"}
+
+I’m **Tim Patras**, an MBA student at **University Canada West**, passionate about business strategy, analytics, and technology. I have prior experience in business development, client service, and project management. I aim to use data-driven thinking to solve real-world business challenges and drive sustainable growth.
+
+# 🎓 Education {.aos .blink-fade data-aos="fade-in"}
+
+- **MBA** – University Canada West, Vancouver, BC (2024–2026)  
+- **BBA** – Delhi University, India (2016–2019)
+
+# 💼 Professional Experience {.aos .blink-fade data-aos="fade-in"}
+
+**Business Development Executive – Techglobe IT Solutions**  
+*2019 – 2020*  
+- Managed B2B outreach and lead generation  
+- Delivered presentations and closed long-term client deals  
+
+**Client Servicing Executive – Virtual Employee Pvt Ltd**  
+*2021 – 2023*  
+- Maintained client satisfaction and managed communication  
+- Drafted professional correspondences and scheduled meetings via Zoom, Google Meet, MS Teams, and Skype  
+- Created reports, presentations, and charts using Excel, PowerPoint, Word, and Outlook  
+
+# 🧠 Key Skills {.aos .blink-fade data-aos="fade-in"}
+
+- Business Analytics (Excel, Tableau, SQL)  
+- Strategic Marketing & Planning  
+- Team Collaboration & Client Communication  
+- CRM Tools (Zoho, HubSpot)  
+
+# 📬 Contact {.aos .blink-fade data-aos="fade-in"}
+
+- 📧 Email: [patras.tim6@gmail.com](mailto:patras.tim6@gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/tim-patras/](https://www.linkedin.com/in/tim-patras/)
